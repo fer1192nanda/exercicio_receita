@@ -1,0 +1,28 @@
+img {
+   width: 100px;
+   height: 100px;
+}
+
+.main {
+    position: absolute;   
+    left: 50%; 
+    transform: translate(-50%);
+}
+
+.item {
+    display: none ;   
+}
+
+.active {
+    display: block;
+}
+
+li{
+    width: 500px;
+    height: 50px;
+    
+}
+
+*{
+ background-color: antiquewhite;
+}
